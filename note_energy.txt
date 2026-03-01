@@ -1,0 +1,19 @@
+Current actor type is SNN
+The model Heston_kappa1_snn_T2_29000 and energy is 29215.445262695313
+Current actor type is SNN
+The model Heston_kappa2_snn_T2_29000 and energy is 29240.978104199217
+Current actor type is SNN
+The model Heston_kappa3_snn_T2_29000 and energy is 28787.438721972656
+Current actor type is SNN
+The model MJD_kappa1_snn_T2_19000 and energy is 28764.789049902345
+Current actor type is SNN
+The model MJD_kappa2_snn_T2_35000 and energy is 30351.308223535158
+Current actor type is SNN
+The model MJD_kappa3_snn_T2_39000 and energy is 30344.560282421877
+Current actor type is SNN
+The model SABR_kappa1_snn_T2_34000 and energy is 29002.76497705078
+
+Current actor type is SNN
+The model SABR_kappa2_snn_T2_38000 and energy is 30665.530281347656
+Current actor type is SNN
+The model SABR_kappa3_snn_T2_29000 and energy is 30667.83380332031
